@@ -15,5 +15,6 @@ console.log(media);
 console.log(media.toFixed(2)); /* -> "toFixed" serve para aproximar o valor sem ficar quebrado
 e o numero "2" o máximo de cada decimais que eu quero que ele imprima */
 console.log(media.toString(2)); /* -> "toString(2)" serve para caso 
-queira transformar o numero em uma string para numero binário */
+queira transformar um numero em uma string para numero binário 
+(ele vai ler o valor e transformar em uma string seja em binario ou nao) */
 console.log(typeof media);
