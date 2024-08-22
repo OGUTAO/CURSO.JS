@@ -45,7 +45,7 @@ frases ou numeros ou simbolos a sua string dependendo de onde você a coloca-las
 
 console.log("Exemplo 5B:")
 console.log("Escola " + escola + ("!")); /* -> mesma coisa que o ".concat" 
-obs: so concatena pq é string se fosse número iria somar */
+obs: só concatena pq é string se fosse número iria somar */
 }
 
 
