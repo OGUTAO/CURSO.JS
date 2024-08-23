@@ -20,3 +20,5 @@ const prod2 = { /* -> ou pode ser assim, indicando cada coisa já dentro das cha
 };
 
 console.log(prod2);
+
+// obs: objetos são resumidamente o "var", "let" e "const"
